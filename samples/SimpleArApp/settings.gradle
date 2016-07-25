@@ -1,0 +1,13 @@
+include ':app'
+include ':gvr-base'
+project (":gvr-base").projectDir = new File("../../gvr-base")
+include ':gvr-common'
+project (":gvr-common").projectDir = new File("../../gvr-common")
+include ':openCVLibrary2411'
+project (":openCVLibrary2411").projectDir = new File("../../openCVLibrary2411")
+include ':min3drotation'
+project (":min3drotation").projectDir = new File("../../min3drotation")
+include ':aruco'
+project (":aruco").projectDir = new File("../../aruco")
+include ':cardboardarlibrary'
+project (":cardboardarlibrary").projectDir = new File("../../cardboardarlibrary")
