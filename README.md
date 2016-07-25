@@ -1,6 +1,6 @@
 # GAR - Android Java Library for Augmented Reality with the Google Cardboard #
 
---- Picture ---
+![](https://github.com/davrempe/cardboardAR-lib/blob/master/samples/images/Screenshot_20160721-144619.png)
 
 The GAR Library is an easy-to-use Java library for creating augmented reality Android
 applications for the [Google Cardboard](https://vr.google.com/cardboard/).
